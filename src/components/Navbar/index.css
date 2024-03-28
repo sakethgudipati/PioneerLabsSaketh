@@ -1,0 +1,36 @@
+.logo {
+  height: 80px;
+  width: 180px;
+}
+.nav-bar {
+  background-color: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-right-style: solid;
+  border-right-color: #c7c7c7;
+  border-right-width: 1px;
+  position: fixed;
+}
+.search-element {
+  padding: 10px;
+  margin-top: 50px;
+  border-radius: 5px;
+  outline: none;
+}
+.nav-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  list-style-type: none;
+  text-decoration: none;
+}
+.icon {
+  height: 25px;
+  width: 25px;
+  margin-top: 12px;
+}
+.nav-text {
+  padding-left: 10px;
+}

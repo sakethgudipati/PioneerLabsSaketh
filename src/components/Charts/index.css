@@ -1,0 +1,40 @@
+.charts {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px;
+}
+.pie-chart {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 500px;
+  box-shadow: 0px 4px 10px 0px;
+  padding: 10px;
+  border-radius: 6px;
+  margin: 10px;
+  width: 600px;
+}
+.bar-chart {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 500px;
+  box-shadow: 0px 3px 13px 0px;
+  padding: 10px;
+  border-radius: 6px;
+  margin: 20px;
+  width: 400px;
+}
+.line-graph {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 500px;
+  box-shadow: 0px 3px 13px 0px;
+  padding: 10px;
+  border-radius: 6px;
+  margin: 20px;
+  width: 600px;
+}

@@ -1,0 +1,16 @@
+.prices-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 200px;
+}
+.get-started-button {
+  padding: 10px;
+  color: white;
+  background-color: blue;
+  border-radius: 6px;
+  border-width: 0px;
+  font-weight: 500;
+  cursor: pointer;
+}

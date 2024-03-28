@@ -1,0 +1,38 @@
+.home {
+  display: flex;
+  flex-direction: row;
+}
+.home-image {
+  height: 400px;
+  width: 650px;
+}
+.home-container {
+  background-size: cover;
+  padding: 80px;
+}
+.crypto-head {
+  font-weight: bold;
+  font-size: 40px;
+  padding-top: 70px;
+}
+.home-container {
+  display: flex;
+  flex-direction: row;
+  padding-left: 380px;
+}
+.crypto-image {
+  height: 400px;
+  width: 600px;
+}
+.get-started-button {
+  padding: 10px;
+  color: white;
+  background-color: blue;
+  border-radius: 6px;
+  border-width: 0px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.get-started-button:hover {
+  background-color: black;
+}
